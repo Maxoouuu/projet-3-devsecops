@@ -1,0 +1,8 @@
+.chartContainer {
+  margin: 30px; /* Adjust the margin as needed */
+  text-align: center; /* Centers the title */
+}
+
+.chartTitle {
+  margin-bottom: 10px; /* Adds some space between the title and the chart */
+}
